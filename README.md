@@ -1,6 +1,7 @@
 # docker-with-Cassandra
 
 Como usar este script:
+
 Primeira execução:
 
 Criará um novo container Cassandra
