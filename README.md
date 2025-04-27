@@ -1,6 +1,6 @@
 # docker-with-Cassandra
 
-Como usar este script:
+Como usar este script em python:  obs: para windows.
 
 Primeira execução:
 
