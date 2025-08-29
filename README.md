@@ -17,6 +17,8 @@ Se escolher usar o existente, iniciará o container se necessário e entrará no
 
 ** Este script fornece uma maneira completa de gerenciar seu ambiente Cassandra via Python, com todas as operações CRUD disponíveis através do shell CQL.
 
+$$ Apache Cassandra é um banco de dados NoSQL colunar de alta performance.
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@gilnei809/gilnei-azambuja-borges-analista-de-dados-e-administrador-de-banco-de-dados-8774175b0e46)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilnei-azambuja-borges-1a83432b)
